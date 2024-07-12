@@ -1,0 +1,6 @@
+{
+    "path": "./src/components", 
+    "output": "./src/components/index.js",
+    "regexp":"/.*/",
+    "prefix":"h"
+}
