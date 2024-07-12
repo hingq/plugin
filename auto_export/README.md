@@ -2,6 +2,8 @@
 
 ### auto_export
 
+> npm i @aether*/auto_export
+
 zh-en:
 这个一个自动导出组件的库
 写组件库的时候不在手动导出!
