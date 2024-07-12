@@ -1,6 +1,7 @@
-## 一个杂乱的插件录
+
 
 ### auto_export
+这是完整的测试文件
 
 zh-en:
 这个一个自动导出组件的库
@@ -19,7 +20,7 @@ Because the export will create a new index.js, each directory has
 
 结构如下：
 
-```json
+```txt
 my-vue-project/
 ├── src/
 │   ├── components/
@@ -42,7 +43,7 @@ my-vue-project/
 
 export.config.json文件用于配置，不配置，默认src/componetns
 
-```json
+```js
 {
     "path": "./src/components", 
     "output": "./src/components/index.js",
